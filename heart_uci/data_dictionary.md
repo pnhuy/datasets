@@ -11,7 +11,7 @@ https://raw.githubusercontent.com/shifteight/R-lang/master/ISLR/Heart.csv
 
 ## Columns meaning
 * age
-* sex
+* sex (1 = male; 0 = female)
 * chest pain type (4 values)
 * resting blood pressure
 * serum cholestoral in mg/dl
